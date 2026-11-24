@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="public/images/documind-logo.png" alt="DocuMind logo" width="180"/>
+
 # 🧠 DocuMind
 
 ### Enterprise RAG SaaS Platform — Intelligent Document Ingestion, Semantic Search & AI Chat
